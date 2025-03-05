@@ -4,7 +4,13 @@ This repository contains the implementation of a real-time risk assessment frame
 
 ## Repository Structure
 ```bash
-├── Code/ │ ├── classify.py # Multi-label classification of security incidents │ ├── cluster.py # Clustering-based incident categorization │ ├── main.py # Implementation of offline and online phases │ ├── read_incidents.py # Data preprocessing and feature encoding │ ├── Files/ │ ├── dataframe2.csv # Mapped dataset (confidential information removed)
+├── Code/ │ 
+├── classify.py # Multi-label classification of security incidents │ 
+├── cluster.py # Clustering-based incident categorization │ 
+├── main.py # Implementation of offline and online phases │ 
+├── read_incidents.py # Data preprocessing and feature encoding │ 
+├── Files/ │ 
+├── mapped_dataset.csv # Mapped dataset (confidential information removed)
 ```
 ## Implementation Details
 
